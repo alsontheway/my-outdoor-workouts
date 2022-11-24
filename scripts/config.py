@@ -51,7 +51,7 @@ TYPE_DICT = {
     "running": "Run",
     "RUN": "Run",
     "Run": "Run",
-    "cycling": "Ride",
+    //"cycling": "Ride",
     "CYCLING": "Ride",
     "Ride": "Ride",
     "VirtualRide": "VirtualRide",
@@ -64,18 +64,18 @@ TYPE_DICT = {
     "rowing": "Rowing",
     "RoadTrip": "RoadTrip",
     "flight": "Flight",
-    "kayaking": "Kayaking",
+  "kayaking": "Kayaking",//
 }
 
 MAPPING_TYPE = [
-    "Hike",
+   // "Hike",
     "Ride",
     "VirtualRide",
-    "Rowing",
+    "Rowing",//
     "Run",
-    "Swim",
+    //"Swim",
     "RoadTrip",
-    "Kayaking",
+    "Kayaking",//
 ]
 
 STRAVA_GARMIN_TYPE_DICT = {
