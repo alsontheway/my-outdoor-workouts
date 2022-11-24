@@ -51,7 +51,7 @@ TYPE_DICT = {
     "running": "Run",
     "RUN": "Run",
     "Run": "Run",
-    //"cycling": "Ride",
+    "cycling": "Ride",
     "CYCLING": "Ride",
     "Ride": "Ride",
     "VirtualRide": "VirtualRide",
@@ -68,12 +68,12 @@ TYPE_DICT = {
 }
 
 MAPPING_TYPE = [
-   // "Hike",
+    "Hike",
     "Ride",
     "VirtualRide",
     "Rowing",//
     "Run",
-    //"Swim",
+    "Swim",
     "RoadTrip",
     "Kayaking",//
 ]
